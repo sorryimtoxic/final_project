@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/sorryimtoxic/go_final_project/api"
-	// "go_final_project/api"
-	"github.com/sorryimtoxic/go_final_project/db"
-	// "go_final_project/db"
+	//"github.com/sorryimtoxic/go_final_project/api"
+	 "go_final_project/api"
+	//"github.com/sorryimtoxic/go_final_project/db"
+	 "go_final_project/db"
 )
 
 func main() {
